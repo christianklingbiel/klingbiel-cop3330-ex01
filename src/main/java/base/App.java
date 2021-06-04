@@ -16,6 +16,12 @@ Write a new version of the program without using any variables.
 Write a version of the program that displays different greetings for different people.
 Write a version of the program that displays the greeting in a GUI window.
  */
+
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Christian Klingbiel
+ */
+
 public class App {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
